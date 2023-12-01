@@ -1,4 +1,4 @@
-# COMP333A4
+# Data Analytics, Assignment 4: ETL + Training a model to predict pricing and sales
 **Alexandra Zana**
 ***40131077***
 -------
