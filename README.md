@@ -24,3 +24,5 @@ sion.csv with 3 different methods:
 think any of the methods is objectively better than the others in this case?
 
 Note: The data files are too large to upload
+
+All solutions are found in the `tasks.ipynb` file.
